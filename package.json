@@ -1,0 +1,16 @@
+{
+  "name": "sexyback",
+  "version": "1.0.0",
+  "main": "sexyback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "execa": "^9.6.0",
+    "naudio": "^0.1.0",
+    "zeromq": "^6.5.0"
+  }
+}
